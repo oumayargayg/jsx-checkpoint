@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.titleRed {
+  color: red;
+}
+
+.s1 {
+  width: 600px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  
+}
+.sushi {
+  
+  width: 600px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
